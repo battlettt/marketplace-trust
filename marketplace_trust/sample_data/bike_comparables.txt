@@ -1,0 +1,10 @@
+# item | price | condition | date | region
+Trek FX 3 Disc 2021 | $520 | like new | 2026-09-15 | Toronto
+Trek FX 3 hybrid | $430 | good | 2026-08-02 | Toronto
+Trek FX 3 2020 | $380 | some scratches | 2026-06-20 | Toronto
+Trek FX 3 | $400 | good condition | 2026-10-01 | Ottawa
+Trek FX 3 Disc | $360 | fair | 2026-07-11 | Ottawa
+Trek FX 2 hybrid | $330 | good | 2025-11-30 | Ottawa
+Trek FX 3 frame only | $90 | for parts | 2026-09-01 | Toronto
+Specialized Sirrus 3.0 | $450 | good | 2026-09-10 | Toronto
+Trek FX 3 | $650 | brand new | 2023-05-01 | Toronto

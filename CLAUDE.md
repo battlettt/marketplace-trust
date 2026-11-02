@@ -18,14 +18,17 @@ a price trend watch for a category.
 - Python standard library only for the core. No dependencies to install.
 
 ## Build, test, run
-- Run: `python -m marketplace_trust` (see README for commands)
+- Run: `python -m marketplace_trust --demo` (see README for commands)
 - Tests: plain asserts, runnable with or without pytest:
-  `python -m pytest`
+  `python -m pytest` or `python tests/run_tests.py`
 - Keep pricing, scam detection, negotiation, and reporting separate so
-  each can be tested alone.
+  each can be tested alone (one module each in `marketplace_trust/`;
+  `report.py` only formats, `analysis.py` wires features together).
+- README worked examples are checked against real output by
+  `tests/test_readme.py`; update both when output changes.
 
 ## Conventions
 - Small functions, clear names, minimal abstraction.
 - Every feature ships with tests and a README section.
 - A browser demo is optional; if built, it must run offline and match
-  the CLI's numbers exactly.
+  the CLI's numbers exactly. None exists yet; `--demo` is the demo.

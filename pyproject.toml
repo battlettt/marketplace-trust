@@ -1,0 +1,10 @@
+[project]
+name = "marketplace-trust"
+version = "1.0.0"
+description = "Fair prices, scam checks, negotiation, and meetup safety for secondhand listings, from pasted text only."
+requires-python = ">=3.10"
+dependencies = []
+
+[tool.pytest.ini_options]
+testpaths = ["tests"]
+pythonpath = ["."]

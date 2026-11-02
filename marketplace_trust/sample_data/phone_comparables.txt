@@ -1,0 +1,6 @@
+# item | price | condition | date | region
+iPhone 15 Pro 256GB | $900 | like new | 2026-10-01 | Calgary
+iPhone 15 Pro 128GB | $780 | good | 2026-09-20 | Calgary
+iPhone 15 Pro | $820 | good | 2026-08-15 | Edmonton
+iPhone 15 Pro 256GB | $700 | scratches | 2026-10-10 | Calgary
+iPhone 15 Pro Max | $1,050 | excellent | 2026-09-05 | Edmonton
